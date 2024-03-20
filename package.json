@@ -1,0 +1,23 @@
+{
+  "name": "jquery-postmessage",
+  "version": "1.1.0",
+  "description": "[http://benalman.com/projects/jquery-postmessage-plugin/](http://benalman.com/projects/jquery-postmessage-plugin/)",
+  "main": "jquery.ba-postmessage.js",
+  "directories": {
+    "doc": "docs",
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anyroadcom/jquery-postmessage.git"
+  },
+  "author": "AnyRoad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anyroadcom/jquery-postmessage/issues"
+  },
+  "homepage": "https://github.com/anyroadcom/jquery-postmessage#readme"
+}
